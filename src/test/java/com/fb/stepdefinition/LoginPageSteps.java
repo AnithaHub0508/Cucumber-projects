@@ -76,6 +76,7 @@ public class LoginPageSteps{
 	 
 	 WebElement btn = driver.findElement(By.id("submitbtn"));
 	 btn.click();
+	 System.out.println("done");
 	 
 	 }
 
